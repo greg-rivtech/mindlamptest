@@ -1,7 +1,7 @@
 {"spec": "lamp.survey", 
  "name": "test_1_esm", 
  "settings": [
-   {"text": "En ce moment je me sens relaxé(e)", "type": "slider", "options": ['1', '2', '3', '4', '5', '6', '7'], "required": True},
+   {"text": "En ce moment je me sens relaxé(e)", "type": "slider", "options": ["1", "2", "3", "4", "5", "6", "7"], "required": True},
    {"text": "En ce moment je me sens seul(e) ", "type": "slider", "options": [1, 2, 3, 4, 5, 6, 7], "required": True},
    {"text": "En ce moment je me sens anxieux(se) ", "type": "slider", "options": [1, 2, 3, 4, 5, 6, 7], "required": True},
    {"text": "En ce moment je me sens content(e), joyeux(se) ", "type": "slide"', "options": [1, 2, 3, 4, 5, 6, 7], "required": True}, 
