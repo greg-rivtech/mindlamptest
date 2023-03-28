@@ -1,4 +1,4 @@
-{"spec": 'lamp.survey', 
+{"spec": "lamp.survey", 
  "name": "test_1_esm", 
  "settings": [
    {"text": "En ce moment je me sens relaxé(e)", "type": "slider", "options": ['1', '2', '3', '4', '5', '6', '7'], "required": True},
