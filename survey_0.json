@@ -4,7 +4,7 @@
    {"text": "En ce moment je me sens relaxé(e)", "type": "slider", "options": ["1", "2", "3", "4", "5", "6", "7"], "required": true},
    {"text": "En ce moment je me sens seul(e) ", "type": "slider", "options": [1, 2, 3, 4, 5, 6, 7], "required": true},
    {"text": "En ce moment je me sens anxieux(se) ", "type": "slider", "options": [1, 2, 3, 4, 5, 6, 7], "required": true},
-   {"text": "En ce moment je me sens content(e), joyeux(se) ", "type": "slide"', "options": [1, 2, 3, 4, 5, 6, 7], "required": true}, 
+   {"text": "En ce moment je me sens content(e), joyeux(se) ", "type": "slide", "options": [1, 2, 3, 4, 5, 6, 7], "required": true}, 
    {"text": "En ce moment je me sens irrité(e), en colère ", "type": "slider", "options": [1, 2, 3, 4, 5, 6, 7], "required": true}, 
    {"text": "En ce moment je me sens dérangé(e) par des stimulations sensorielles ", "type": "slider", "options": [1, 2, 3, 4, 5, 6, 7], "required": true},
    {"text": "En ce moment je me sens excité(e) ", "type": "slider", "options": [1, 2, 3, 4, 5, 6, 7], "required": true}, 
